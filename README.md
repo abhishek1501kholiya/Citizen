@@ -34,5 +34,5 @@ press **i** to open it on the simulator
 
 Note: to run this project make sure to use your own firebase credentials in the /screens/config.js file otherwise it will not run and never share your firebase credentials like i did because i was kid and thought who cares?  
 
-Thanks for taking out the time to check this repo  
+Thanks for taking the time to check this repo  
 Keep coding
