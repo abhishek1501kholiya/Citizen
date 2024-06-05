@@ -21,6 +21,7 @@ run the following command to start the development server
 expo start 
 ```
 Now you will be able to test on the web, mobile or simulator.  
+  
 *for web*:    
 press **w** key to open it on the web  
   
